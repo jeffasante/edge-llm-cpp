@@ -39,3 +39,21 @@
 
 # debug information files
 *.dwo
+
+# Build directory
+build/
+
+# Model files
+model.bin
+*.bin
+
+# macOS
+.DS_Store
+
+# Project specific files
+vocab.txt
+roles.md
+notes.md
+run.md
+src/main copy.cpp.md
+scripts/model_int4.bin
